@@ -164,7 +164,7 @@ body {
   padding: 10px 0px;
   background: -webkit-gradient(linear, right top, left top, from(#00eeff), to(#ff006a));
   background: linear-gradient(to left, #00eeff, #ff006a);
-  -webkit-background-clip: text;
+ 
   -webkit-text-fill-color: transparent;
   font-family: 'Goldman', cursive;
   font-weight: 900;
